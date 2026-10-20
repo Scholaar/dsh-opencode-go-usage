@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenCode Go 用量",
+    "description": "在会话输入区查看 OpenCode Go 的 5 小时、每周、每月用量与重置时间，数据直接来自 OpenCode Go 网关。"
+  }
+}

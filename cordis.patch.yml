@@ -1,0 +1,7 @@
+# 插件挂载声明：把用量面板插入 Web profile 的配置树。
+# 安装：dsh plugin --profile desktop add link:<本目录绝对路径>
+- insert:
+    - id: opencode-go-usage
+      name: dsh-opencode-go-usage
+      config:
+        apiKeyEnv: OPENCODE_GO_API_KEY
